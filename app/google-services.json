@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "525153627033",
+    "firebase_url": "https://fir-smcoxm.firebaseio.com",
+    "project_id": "fir-smcoxm",
+    "storage_bucket": "fir-smcoxm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525153627033:android:deaae79cdf056ac3",
+        "android_client_info": {
+          "package_name": "com.firebaseloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525153627033-li3blengqsdd6fruv17pciaovd6n9ng9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdFqdDJE1QQ_T7Ko1eyL0388RDtKKJshs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

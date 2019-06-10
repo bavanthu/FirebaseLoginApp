@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]

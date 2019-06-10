@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5435dda345369f3ae1a70dba86ce777a79f7882e">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_544841d680ce2b2dfc328e1dfb77198485ff0a39\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\328e3d43bdf406b3c7b035920effc48112dee579\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_f4f4ed334708bf47ce01ef28663f22833d20945b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_80b789e46e4302e1cab7f5cf57191db3022234ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\40a9df45789f1ba4648d92fb28ba4eb3debc8482\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_28894ed13654b1c4306f6674c3ca24552ae204ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_7133300a8dc29c02a9eefeb5bf12e3d81df9a8df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\fdbed65b384ac6ee2c0d53f7e079c5a7552fd2ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_96e2af2382e54f3aeb65198d5043dbb2bc92130b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\a6905c5d9434e7082bed759fd8604e3aa174d264\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_9d61bc8bc1b43ca9a5e36ffdff8f9db8f13c95ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\a58fc77cbb22f2fc837c503edf44e9ba8829c7ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_d2b8f20cf8d279fb2bd682f8416074a7c257dd81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\8fee664d372004699468ee7d8a169198758a5a21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_58300de3a473ef17851a64b815312a4f921bce65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_190f68d07aa4f6256203304a4e89d0db1700394d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\91c8512ea7c4badd7141adbc694fc8e5e0123e63\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_e5615c817811849ea7d46857d8a63359befab88d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\c822a31c91d9f86c51911115c90b01b1d014023d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_e583e7b0a4108320524289d712d98c37ae8077f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\798c34f7726850d0dd2dbb553139cd663ab8ea80\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_35e1004b3a27016c89c731005a2af287eac4467d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\09b34313647dc6675fa32f81c38d4b47e8438d73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_4cdb7b34538608458ea53b9b68c7ee40ef71ba6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\3372609337f889f6d9e2541d408b2747013d1e2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_bdb0acd652d34ad3e9125c5c920485f97a86758c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\c96c95dfa0f9ad6576e3bc54848a45e186c670a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_af6a44c8458469c1cc66e13a8afdd57f8869fcad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\9ddb60c4d46144c9d3e0e96fd7d31b5d24b15fdd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_c08586719968b2ee1ff5f78090172eb41c9055af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\e80189cd08c9919f9cbd4a0cd73bbfc1c476432d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_25c5211877b815e89a19425612e777b7077f2184.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\94901ffe265eb9dae22dca81ae04550d6f8d9303\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_dda45a857fec8b840749e196b4a21249849ee448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\33a7928ecc816469836db7c86bcff686e0d042f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_6a7f004d14a9c63e4728687b7a64571491768d19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\9a7da5aa506dede43a311fbb50716faf466233cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_52386414d47011d949241a96deb0924c248693ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\66d3397f50b1ee15b5006787176f597ec0b7442d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_1595ab4cd0f72f79f2c6dec1da348952b7ca0df7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\e97edf06c4344292fef2435daa9c976a130d6b67\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_6f19f0f0d55fcf8d2f6df0aa4361be3adbcabe62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Pc\.android\build-cache\1003bf59638ab9cf2bc9f46f462330f0323aa8d8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\Pc\Desktop\FirebaseLoginApp\app\build\intermediates\pre-dexed\debug\classes_63767fdb0383a0d74be5ee43866bf6e36e13c395.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,398 @@
+[
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_full_open_on_phone.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\SCONS\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Pc\\Desktop\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "C:\\Users\\Pc\\.android\\build-cache\\c822a31c91d9f86c51911115c90b01b1d014023d\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\dhanushvenkatesh\\AndroidStudioProjects\\FirebaseLoginApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "C:\\Users\\dhanushvenkatesh\\.android\\build-cache\\5253bf25b77448cd4fd6e2614d1b2c83d077e737\\output\\res\\drawable-tvdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    }
+]
